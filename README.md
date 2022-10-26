@@ -1,2 +1,0 @@
-# lokal-award
-lokal-award
